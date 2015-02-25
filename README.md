@@ -5,7 +5,7 @@
 
 ## Требования к программе
 
-Критерий      | :-1: | :-1: 
+Критерий      | :-1: | :+1: 
 ------------- | -----|-------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
