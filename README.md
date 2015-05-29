@@ -10,7 +10,7 @@
 ### Список тем
 
 1. Реализация алгоритма Брезенхема ([Генько] (https://github.com/gen-maksim/Homework-2015-1652-)).
-2. Реализация алгоритма DDA-линии. ([Бурков](https://github.com/become-iron/diff-python-scripts/tree/master/dda))
+2. Реализация алгоритма DDA-линии. ([Бурков](https://github.com/become-iron/diff-python-scripts/tree/master/dda); [Воробьёва](https://github.com/LinaVorob/DDA--))
 3. Реализация кодов Хэмминга.
 4. Реализация кодов Рида—Соломона.
 5. Реализация алгоритма циклического избыточного кода.
