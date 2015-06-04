@@ -31,6 +31,7 @@
 20. **(128+ баллов за хорошую реализацию)** Индивидуальное задание по LaTeX'у и Питону (Михайлин, Ковалёв&nbsp;— ).
 21. P2P messenger ([Котельников](https://github.com/kotelnikov-itmo), [Неменчинский](https://github.com/ivanguy)&nbsp;— ).
 22. Space Odyssey ([Зименко] (https://github.com/stwinter2014)).
+23. Conversion_tests ([Плешков] (https://github.com/mz15/Conversion_tests/tree/new))
 
 ### Требования к программе
 
