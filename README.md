@@ -32,6 +32,7 @@
 21. P2P messenger ([Котельников](https://github.com/kotelnikov-itmo), [Неменчинский](https://github.com/ivanguy)&nbsp;— ).
 22. Space Odyssey ([Зименко] (https://github.com/stwinter2014)).
 23. Conversion_tests ([Плешков] (https://github.com/mz15/Conversion_tests/tree/new))
+24. Сравнение эффективности алгоритмов поиска подстроки в строке ([Гашков] (https://github.com/nikitagashkov))
 
 ### Требования к программе
 
